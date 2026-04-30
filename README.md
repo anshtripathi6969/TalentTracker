@@ -14,12 +14,9 @@
 **Evaluate, compare, and shortlist top candidates with a powerful visual hiring dashboard designed for modern teams.**
 
 <br />
+<img width="1909" height="1070" alt="image" src="https://github.com/user-attachments/assets/8a0e1a35-bf3a-449e-812d-c3f5013935c9" />
+<img width="1919" height="1068" alt="image" src="https://github.com/user-attachments/assets/1b02edfd-58ec-497e-bf9a-e6658000610c" />
 
-### 🎬 Demo
-
-https://github.com/user-attachments/assets/demo.mp4
-
-<video src="public/demo.mp4" width="100%" autoplay loop muted playsinline></video>
 
 [🚀 Live Demo](#-getting-started) · [📖 Features](#-features) · [🏗️ Architecture](#%EF%B8%8F-architecture) · [⚡ Quick Start](#-getting-started)
 
